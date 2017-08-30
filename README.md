@@ -1,4 +1,4 @@
 # rocketdesign
 myfirst website
 
-this 
+this is a sample website designed using HTML,CSS,JAVSA SCRIPT
