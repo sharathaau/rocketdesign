@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>myForm </title>
+<meta charset="utf-8">
+<meta name="keywords" content="example, JavaScript Form Validation, Sample registration form" />
+<meta name="description" content="This document is an example of JavaScript Form Validation using a sample registration form. " />
+<link rel='stylesheet' href='js-form-validation.css' type='text/css' />
+<script src="myForm.js"></script>
+</head>
+
+<body>
+<h1>Registration Form</h1>
+<p>Use tab keys to move from one input field to the next.</p>
+</body>
+</html>
